@@ -1,0 +1,591 @@
+{"customer_state":"PR","customer_city":"Caguas","order_count":25487}
+{"customer_state":"IL","customer_city":"Chicago","order_count":1488}
+{"customer_state":"NY","customer_city":"Brooklyn","order_count":1302}
+{"customer_state":"CA","customer_city":"Los Angeles","order_count":1285}
+{"customer_state":"NY","customer_city":"New York","order_count":676}
+{"customer_state":"PA","customer_city":"Philadelphia","order_count":612}
+{"customer_state":"NY","customer_city":"Bronx","order_count":569}
+{"customer_state":"CA","customer_city":"San Diego","order_count":538}
+{"customer_state":"TX","customer_city":"Houston","order_count":510}
+{"customer_state":"FL","customer_city":"Miami","order_count":508}
+{"customer_state":"NV","customer_city":"Las Vegas","order_count":439}
+{"customer_state":"TX","customer_city":"Dallas","order_count":407}
+{"customer_state":"CA","customer_city":"San Jose","order_count":362}
+{"customer_state":"MI","customer_city":"Detroit","order_count":361}
+{"customer_state":"AZ","customer_city":"Phoenix","order_count":358}
+{"customer_state":"OH","customer_city":"Cleveland","order_count":299}
+{"customer_state":"VA","customer_city":"Virginia Beach","order_count":290}
+{"customer_state":"CO","customer_city":"Aurora","order_count":280}
+{"customer_state":"TN","customer_city":"Memphis","order_count":278}
+{"customer_state":"TX","customer_city":"San Antonio","order_count":267}
+{"customer_state":"TX","customer_city":"El Paso","order_count":244}
+{"customer_state":"FL","customer_city":"Fort Lauderdale","order_count":241}
+{"customer_state":"HI","customer_city":"Honolulu","order_count":230}
+{"customer_state":"DC","customer_city":"Washington","order_count":229}
+{"customer_state":"CA","customer_city":"Bakersfield","order_count":227}
+{"customer_state":"AZ","customer_city":"Tucson","order_count":223}
+{"customer_state":"NM","customer_city":"Albuquerque","order_count":219}
+{"customer_state":"MD","customer_city":"Baltimore","order_count":215}
+{"customer_state":"FL","customer_city":"Pompano Beach","order_count":213}
+{"customer_state":"CA","customer_city":"Santa Ana","order_count":207}
+{"customer_state":"CA","customer_city":"Long Beach","order_count":204}
+{"customer_state":"MN","customer_city":"Saint Paul","order_count":202}
+{"customer_state":"OH","customer_city":"Columbus","order_count":194}
+{"customer_state":"AZ","customer_city":"Tempe","order_count":182}
+{"customer_state":"FL","customer_city":"Hialeah","order_count":180}
+{"customer_state":"LA","customer_city":"New Orleans","order_count":180}
+{"customer_state":"FL","customer_city":"Orlando","order_count":174}
+{"customer_state":"CA","customer_city":"Riverside","order_count":171}
+{"customer_state":"MO","customer_city":"Saint Louis","order_count":169}
+{"customer_state":"CA","customer_city":"Fresno","order_count":169}
+{"customer_state":"OR","customer_city":"Portland","order_count":167}
+{"customer_state":"CA","customer_city":"San Francisco","order_count":162}
+{"customer_state":"CA","customer_city":"Escondido","order_count":152}
+{"customer_state":"CA","customer_city":"Ontario","order_count":147}
+{"customer_state":"GA","customer_city":"Atlanta","order_count":146}
+{"customer_state":"TX","customer_city":"Fort Worth","order_count":145}
+{"customer_state":"MO","customer_city":"Florissant","order_count":142}
+{"customer_state":"FL","customer_city":"Tampa","order_count":134}
+{"customer_state":"CA","customer_city":"Sacramento","order_count":134}
+{"customer_state":"PR","customer_city":"San Juan","order_count":133}
+{"customer_state":"NY","customer_city":"Buffalo","order_count":131}
+{"customer_state":"TX","customer_city":"Austin","order_count":130}
+{"customer_state":"TX","customer_city":"Laredo","order_count":130}
+{"customer_state":"GA","customer_city":"Marietta","order_count":126}
+{"customer_state":"UT","customer_city":"Salt Lake City","order_count":126}
+{"customer_state":"CA","customer_city":"Moreno Valley","order_count":126}
+{"customer_state":"CA","customer_city":"Anaheim","order_count":122}
+{"customer_state":"CA","customer_city":"Oceanside","order_count":121}
+{"customer_state":"CA","customer_city":"Fremont","order_count":120}
+{"customer_state":"PA","customer_city":"West Chester","order_count":119}
+{"customer_state":"OR","customer_city":"Eugene","order_count":118}
+{"customer_state":"CA","customer_city":"Mission Viejo","order_count":115}
+{"customer_state":"PR","customer_city":"Bayamon","order_count":114}
+{"customer_state":"CA","customer_city":"Hayward","order_count":114}
+{"customer_state":"PA","customer_city":"Lancaster","order_count":112}
+{"customer_state":"TX","customer_city":"Amarillo","order_count":111}
+{"customer_state":"CA","customer_city":"Simi Valley","order_count":109}
+{"customer_state":"NJ","customer_city":"Newark","order_count":107}
+{"customer_state":"IL","customer_city":"Aurora","order_count":106}
+{"customer_state":"IL","customer_city":"Elgin","order_count":105}
+{"customer_state":"FL","customer_city":"Hollywood","order_count":104}
+{"customer_state":"CA","customer_city":"Garden Grove","order_count":103}
+{"customer_state":"CA","customer_city":"San Bernardino","order_count":103}
+{"customer_state":"CA","customer_city":"Modesto","order_count":102}
+{"customer_state":"TX","customer_city":"Sugar Land","order_count":100}
+{"customer_state":"NJ","customer_city":"Jersey City","order_count":99}
+{"customer_state":"CA","customer_city":"Oxnard","order_count":99}
+{"customer_state":"AZ","customer_city":"Glendale","order_count":97}
+{"customer_state":"NY","customer_city":"Staten Island","order_count":97}
+{"customer_state":"CA","customer_city":"Lancaster","order_count":96}
+{"customer_state":"NC","customer_city":"Greensboro","order_count":96}
+{"customer_state":"CA","customer_city":"Encinitas","order_count":95}
+{"customer_state":"CA","customer_city":"West Covina","order_count":95}
+{"customer_state":"CA","customer_city":"Pomona","order_count":94}
+{"customer_state":"CA","customer_city":"Stockton","order_count":94}
+{"customer_state":"OH","customer_city":"Strongsville","order_count":93}
+{"customer_state":"CO","customer_city":"Denver","order_count":92}
+{"customer_state":"TX","customer_city":"Irving","order_count":92}
+{"customer_state":"NY","customer_city":"Jamaica","order_count":91}
+{"customer_state":"PA","customer_city":"York","order_count":90}
+{"customer_state":"OR","customer_city":"Bend","order_count":89}
+{"customer_state":"CO","customer_city":"Greeley","order_count":88}
+{"customer_state":"CA","customer_city":"Fullerton","order_count":88}
+{"customer_state":"AZ","customer_city":"Chandler","order_count":88}
+{"customer_state":"CA","customer_city":"Corona","order_count":88}
+{"customer_state":"NC","customer_city":"Raleigh","order_count":87}
+{"customer_state":"FL","customer_city":"Jacksonville","order_count":87}
+{"customer_state":"OR","customer_city":"Salem","order_count":87}
+{"customer_state":"MD","customer_city":"Hyattsville","order_count":86}
+{"customer_state":"OH","customer_city":"Hamilton","order_count":86}
+{"customer_state":"CO","customer_city":"Colorado Springs","order_count":86}
+{"customer_state":"TX","customer_city":"San Benito","order_count":85}
+{"customer_state":"CA","customer_city":"Winnetka","order_count":85}
+{"customer_state":"PA","customer_city":"Carlisle","order_count":85}
+{"customer_state":"NC","customer_city":"Apex","order_count":85}
+{"customer_state":"CA","customer_city":"Fontana","order_count":85}
+{"customer_state":"CA","customer_city":"Rowland Heights","order_count":85}
+{"customer_state":"AZ","customer_city":"Mesa","order_count":84}
+{"customer_state":"NC","customer_city":"Greenville","order_count":84}
+{"customer_state":"NY","customer_city":"Newburgh","order_count":83}
+{"customer_state":"CA","customer_city":"Van Nuys","order_count":83}
+{"customer_state":"TX","customer_city":"Brownsville","order_count":83}
+{"customer_state":"TX","customer_city":"Plano","order_count":83}
+{"customer_state":"GA","customer_city":"Augusta","order_count":82}
+{"customer_state":"CA","customer_city":"Compton","order_count":82}
+{"customer_state":"DE","customer_city":"Newark","order_count":82}
+{"customer_state":"CA","customer_city":"El Cajon","order_count":82}
+{"customer_state":"CA","customer_city":"Lake Forest","order_count":81}
+{"customer_state":"LA","customer_city":"Opelousas","order_count":80}
+{"customer_state":"CA","customer_city":"Daly City","order_count":80}
+{"customer_state":"CA","customer_city":"Sunnyvale","order_count":80}
+{"customer_state":"MI","customer_city":"Dearborn","order_count":80}
+{"customer_state":"CA","customer_city":"Ventura","order_count":80}
+{"customer_state":"NY","customer_city":"Freeport","order_count":80}
+{"customer_state":"CT","customer_city":"Milford","order_count":80}
+{"customer_state":"CA","customer_city":"Vista","order_count":78}
+{"customer_state":"CA","customer_city":"Chula Vista","order_count":78}
+{"customer_state":"PR","customer_city":"Humacao","order_count":77}
+{"customer_state":"WI","customer_city":"Milwaukee","order_count":76}
+{"customer_state":"KY","customer_city":"Louisville","order_count":76}
+{"customer_state":"CA","customer_city":"North Hollywood","order_count":76}
+{"customer_state":"CA","customer_city":"Costa Mesa","order_count":75}
+{"customer_state":"IN","customer_city":"Indianapolis","order_count":75}
+{"customer_state":"TX","customer_city":"Carrollton","order_count":74}
+{"customer_state":"VA","customer_city":"Woodbridge","order_count":74}
+{"customer_state":"WA","customer_city":"Seattle","order_count":74}
+{"customer_state":"CA","customer_city":"Tustin","order_count":74}
+{"customer_state":"NJ","customer_city":"Princeton","order_count":73}
+{"customer_state":"OH","customer_city":"Loveland","order_count":73}
+{"customer_state":"MI","customer_city":"Jackson","order_count":73}
+{"customer_state":"FL","customer_city":"Tallahassee","order_count":73}
+{"customer_state":"WI","customer_city":"La Crosse","order_count":72}
+{"customer_state":"KS","customer_city":"Wichita","order_count":72}
+{"customer_state":"NC","customer_city":"Fayetteville","order_count":72}
+{"customer_state":"NY","customer_city":"Corona","order_count":72}
+{"customer_state":"CA","customer_city":"Huntington Beach","order_count":71}
+{"customer_state":"NJ","customer_city":"Bridgeton","order_count":71}
+{"customer_state":"HI","customer_city":"Mililani","order_count":71}
+{"customer_state":"MA","customer_city":"Brighton","order_count":70}
+{"customer_state":"NY","customer_city":"Elmhurst","order_count":70}
+{"customer_state":"OH","customer_city":"Elyria","order_count":70}
+{"customer_state":"CA","customer_city":"Spring Valley","order_count":70}
+{"customer_state":"NY","customer_city":"Endicott","order_count":70}
+{"customer_state":"MD","customer_city":"Cumberland","order_count":70}
+{"customer_state":"MI","customer_city":"Mount Pleasant","order_count":69}
+{"customer_state":"MD","customer_city":"Catonsville","order_count":69}
+{"customer_state":"IL","customer_city":"Pekin","order_count":69}
+{"customer_state":"CA","customer_city":"Gardena","order_count":69}
+{"customer_state":"CA","customer_city":"Carlsbad","order_count":69}
+{"customer_state":"PR","customer_city":"Manati","order_count":68}
+{"customer_state":"CA","customer_city":"Antioch","order_count":68}
+{"customer_state":"TX","customer_city":"College Station","order_count":68}
+{"customer_state":"NJ","customer_city":"Toms River","order_count":67}
+{"customer_state":"WA","customer_city":"Kent","order_count":67}
+{"customer_state":"OH","customer_city":"Lakewood","order_count":67}
+{"customer_state":"IL","customer_city":"Moline","order_count":67}
+{"customer_state":"PR","customer_city":"Carolina","order_count":67}
+{"customer_state":"ID","customer_city":"Meridian","order_count":67}
+{"customer_state":"TX","customer_city":"North Richland Hills","order_count":66}
+{"customer_state":"TN","customer_city":"Murfreesboro","order_count":66}
+{"customer_state":"IL","customer_city":"Carol Stream","order_count":66}
+{"customer_state":"CA","customer_city":"Highland","order_count":65}
+{"customer_state":"NY","customer_city":"South Richmond Hill","order_count":65}
+{"customer_state":"TX","customer_city":"Weslaco","order_count":64}
+{"customer_state":"NV","customer_city":"North Las Vegas","order_count":64}
+{"customer_state":"MD","customer_city":"Silver Spring","order_count":64}
+{"customer_state":"MI","customer_city":"Canton","order_count":63}
+{"customer_state":"TX","customer_city":"Mission","order_count":63}
+{"customer_state":"MA","customer_city":"Plymouth","order_count":63}
+{"customer_state":"NY","customer_city":"Rochester","order_count":63}
+{"customer_state":"CA","customer_city":"Porterville","order_count":63}
+{"customer_state":"NC","customer_city":"Lenoir","order_count":63}
+{"customer_state":"OR","customer_city":"Oregon City","order_count":63}
+{"customer_state":"NJ","customer_city":"Wayne","order_count":62}
+{"customer_state":"CA","customer_city":"Hanford","order_count":62}
+{"customer_state":"PA","customer_city":"Irwin","order_count":62}
+{"customer_state":"MI","customer_city":"Troy","order_count":61}
+{"customer_state":"CA","customer_city":"Walnut","order_count":61}
+{"customer_state":"VA","customer_city":"Chesapeake","order_count":61}
+{"customer_state":"NY","customer_city":"Rome","order_count":61}
+{"customer_state":"CA","customer_city":"Santa Clara","order_count":60}
+{"customer_state":"CO","customer_city":"Longmont","order_count":60}
+{"customer_state":"MI","customer_city":"Ann Arbor","order_count":60}
+{"customer_state":"NJ","customer_city":"Piscataway","order_count":60}
+{"customer_state":"CA","customer_city":"La Mesa","order_count":60}
+{"customer_state":"CA","customer_city":"Santa Cruz","order_count":60}
+{"customer_state":"TX","customer_city":"Del Rio","order_count":59}
+{"customer_state":"TN","customer_city":"Cordova","order_count":59}
+{"customer_state":"MI","customer_city":"East Lansing","order_count":59}
+{"customer_state":"CA","customer_city":"Davis","order_count":59}
+{"customer_state":"SC","customer_city":"Lancaster","order_count":59}
+{"customer_state":"GA","customer_city":"Stockbridge","order_count":59}
+{"customer_state":"MI","customer_city":"Hamtramck","order_count":59}
+{"customer_state":"MA","customer_city":"New Bedford","order_count":59}
+{"customer_state":"GA","customer_city":"Columbus","order_count":59}
+{"customer_state":"MA","customer_city":"Lawrence","order_count":58}
+{"customer_state":"CA","customer_city":"Granada Hills","order_count":58}
+{"customer_state":"CA","customer_city":"La Mirada","order_count":58}
+{"customer_state":"IL","customer_city":"Elmhurst","order_count":58}
+{"customer_state":"TX","customer_city":"Harlingen","order_count":57}
+{"customer_state":"MA","customer_city":"Dorchester Center","order_count":57}
+{"customer_state":"NM","customer_city":"Las Cruces","order_count":57}
+{"customer_state":"IL","customer_city":"Waukegan","order_count":57}
+{"customer_state":"SC","customer_city":"Columbia","order_count":57}
+{"customer_state":"CA","customer_city":"Campbell","order_count":57}
+{"customer_state":"MI","customer_city":"Ypsilanti","order_count":57}
+{"customer_state":"NJ","customer_city":"New Brunswick","order_count":56}
+{"customer_state":"MI","customer_city":"Wyoming","order_count":56}
+{"customer_state":"CA","customer_city":"Cerritos","order_count":56}
+{"customer_state":"CA","customer_city":"Carson","order_count":56}
+{"customer_state":"CA","customer_city":"Panorama City","order_count":56}
+{"customer_state":"HI","customer_city":"Waipahu","order_count":56}
+{"customer_state":"MD","customer_city":"Potomac","order_count":56}
+{"customer_state":"NY","customer_city":"Rego Park","order_count":56}
+{"customer_state":"NY","customer_city":"Webster","order_count":55}
+{"customer_state":"PR","customer_city":"San Sebastian","order_count":55}
+{"customer_state":"NJ","customer_city":"Morristown","order_count":55}
+{"customer_state":"WV","customer_city":"Martinsburg","order_count":55}
+{"customer_state":"FL","customer_city":"Orange Park","order_count":55}
+{"customer_state":"MI","customer_city":"Wyandotte","order_count":55}
+{"customer_state":"UT","customer_city":"Ogden","order_count":55}
+{"customer_state":"PA","customer_city":"Mechanicsburg","order_count":55}
+{"customer_state":"FL","customer_city":"Opa Locka","order_count":55}
+{"customer_state":"NC","customer_city":"Hickory","order_count":55}
+{"customer_state":"GA","customer_city":"Lawrenceville","order_count":55}
+{"customer_state":"CA","customer_city":"North Hills","order_count":55}
+{"customer_state":"FL","customer_city":"Winter Park","order_count":54}
+{"customer_state":"MN","customer_city":"Burnsville","order_count":54}
+{"customer_state":"KY","customer_city":"Frankfort","order_count":54}
+{"customer_state":"CA","customer_city":"Bell Gardens","order_count":54}
+{"customer_state":"MD","customer_city":"Hagerstown","order_count":54}
+{"customer_state":"CA","customer_city":"Diamond Bar","order_count":54}
+{"customer_state":"VA","customer_city":"Hampton","order_count":54}
+{"customer_state":"CA","customer_city":"Bellflower","order_count":54}
+{"customer_state":"NJ","customer_city":"West Orange","order_count":54}
+{"customer_state":"MO","customer_city":"Ballwin","order_count":54}
+{"customer_state":"OH","customer_city":"Reynoldsburg","order_count":53}
+{"customer_state":"OK","customer_city":"Broken Arrow","order_count":53}
+{"customer_state":"CA","customer_city":"Salinas","order_count":53}
+{"customer_state":"NJ","customer_city":"Union City","order_count":53}
+{"customer_state":"IL","customer_city":"Quincy","order_count":53}
+{"customer_state":"CT","customer_city":"Enfield","order_count":53}
+{"customer_state":"TX","customer_city":"Pharr","order_count":53}
+{"customer_state":"GA","customer_city":"Powder Springs","order_count":53}
+{"customer_state":"UT","customer_city":"Clearfield","order_count":53}
+{"customer_state":"CO","customer_city":"Littleton","order_count":53}
+{"customer_state":"VA","customer_city":"Norfolk","order_count":52}
+{"customer_state":"NY","customer_city":"Tonawanda","order_count":52}
+{"customer_state":"PR","customer_city":"Mayaguez","order_count":52}
+{"customer_state":"NJ","customer_city":"Union","order_count":52}
+{"customer_state":"PA","customer_city":"Hanover","order_count":52}
+{"customer_state":"NY","customer_city":"South Ozone Park","order_count":52}
+{"customer_state":"TN","customer_city":"Antioch","order_count":52}
+{"customer_state":"OH","customer_city":"Hilliard","order_count":52}
+{"customer_state":"PR","customer_city":"Arecibo","order_count":51}
+{"customer_state":"CA","customer_city":"Victorville","order_count":51}
+{"customer_state":"IL","customer_city":"Joliet","order_count":51}
+{"customer_state":"CA","customer_city":"Visalia","order_count":51}
+{"customer_state":"WI","customer_city":"Madison","order_count":51}
+{"customer_state":"FL","customer_city":"Brandon","order_count":51}
+{"customer_state":"MI","customer_city":"Warren","order_count":51}
+{"customer_state":"VA","customer_city":"Richmond","order_count":50}
+{"customer_state":"CA","customer_city":"Elk Grove","order_count":50}
+{"customer_state":"NM","customer_city":"Roswell","order_count":50}
+{"customer_state":"IL","customer_city":"Mount Prospect","order_count":50}
+{"customer_state":"MA","customer_city":"Pittsfield","order_count":50}
+{"customer_state":"CT","customer_city":"Middletown","order_count":50}
+{"customer_state":"PR","customer_city":"Vega Baja","order_count":50}
+{"customer_state":"MA","customer_city":"Methuen","order_count":50}
+{"customer_state":"IL","customer_city":"Palatine","order_count":50}
+{"customer_state":"RI","customer_city":"Pawtucket","order_count":50}
+{"customer_state":"TX","customer_city":"Richmond","order_count":49}
+{"customer_state":"MO","customer_city":"Saint Charles","order_count":49}
+{"customer_state":"MD","customer_city":"Germantown","order_count":49}
+{"customer_state":"CT","customer_city":"Stamford","order_count":49}
+{"customer_state":"FL","customer_city":"Apopka","order_count":49}
+{"customer_state":"NJ","customer_city":"Lakewood","order_count":49}
+{"customer_state":"CT","customer_city":"New Haven","order_count":49}
+{"customer_state":"NJ","customer_city":"East Brunswick","order_count":48}
+{"customer_state":"MI","customer_city":"Westland","order_count":48}
+{"customer_state":"NY","customer_city":"Flushing","order_count":48}
+{"customer_state":"CA","customer_city":"Alameda","order_count":48}
+{"customer_state":"UT","customer_city":"West Jordan","order_count":48}
+{"customer_state":"OH","customer_city":"Findlay","order_count":47}
+{"customer_state":"PR","customer_city":"Rio Grande","order_count":47}
+{"customer_state":"IL","customer_city":"Algonquin","order_count":47}
+{"customer_state":"WI","customer_city":"Beloit","order_count":47}
+{"customer_state":"CA","customer_city":"Azusa","order_count":47}
+{"customer_state":"PR","customer_city":"Guayama","order_count":47}
+{"customer_state":"HI","customer_city":"Ewa Beach","order_count":47}
+{"customer_state":"CA","customer_city":"El Monte","order_count":47}
+{"customer_state":"NY","customer_city":"Levittown","order_count":47}
+{"customer_state":"NC","customer_city":"Sanford","order_count":47}
+{"customer_state":"CA","customer_city":"Napa","order_count":47}
+{"customer_state":"ND","customer_city":"Bismarck","order_count":47}
+{"customer_state":"CA","customer_city":"Hawthorne","order_count":47}
+{"customer_state":"SC","customer_city":"Goose Creek","order_count":47}
+{"customer_state":"OR","customer_city":"Beaverton","order_count":46}
+{"customer_state":"CA","customer_city":"Alhambra","order_count":46}
+{"customer_state":"TX","customer_city":"Mesquite","order_count":46}
+{"customer_state":"NY","customer_city":"Huntington Station","order_count":46}
+{"customer_state":"CA","customer_city":"Cypress","order_count":46}
+{"customer_state":"WI","customer_city":"Sheboygan","order_count":46}
+{"customer_state":"CA","customer_city":"Pacoima","order_count":46}
+{"customer_state":"CA","customer_city":"Pico Rivera","order_count":46}
+{"customer_state":"TX","customer_city":"San Marcos","order_count":46}
+{"customer_state":"NC","customer_city":"Chapel Hill","order_count":46}
+{"customer_state":"MI","customer_city":"Saginaw","order_count":46}
+{"customer_state":"NY","customer_city":"Yonkers","order_count":46}
+{"customer_state":"NY","customer_city":"Far Rockaway","order_count":45}
+{"customer_state":"TN","customer_city":"Hendersonville","order_count":45}
+{"customer_state":"GA","customer_city":"Duluth","order_count":45}
+{"customer_state":"AZ","customer_city":"Scottsdale","order_count":45}
+{"customer_state":"KY","customer_city":"Bowling Green","order_count":45}
+{"customer_state":"MI","customer_city":"Roseville","order_count":45}
+{"customer_state":"OH","customer_city":"Cincinnati","order_count":45}
+{"customer_state":"IL","customer_city":"Crystal Lake","order_count":45}
+{"customer_state":"FL","customer_city":"Valrico","order_count":45}
+{"customer_state":"IL","customer_city":"Lockport","order_count":44}
+{"customer_state":"OH","customer_city":"Middletown","order_count":44}
+{"customer_state":"LA","customer_city":"Metairie","order_count":44}
+{"customer_state":"CA","customer_city":"Martinez","order_count":44}
+{"customer_state":"KS","customer_city":"Olathe","order_count":44}
+{"customer_state":"TX","customer_city":"Katy","order_count":44}
+{"customer_state":"CA","customer_city":"South El Monte","order_count":44}
+{"customer_state":"NJ","customer_city":"Perth Amboy","order_count":44}
+{"customer_state":"GA","customer_city":"Norcross","order_count":44}
+{"customer_state":"WA","customer_city":"Everett","order_count":43}
+{"customer_state":"CA","customer_city":"Cupertino","order_count":43}
+{"customer_state":"MI","customer_city":"Holland","order_count":43}
+{"customer_state":"WA","customer_city":"Federal Way","order_count":43}
+{"customer_state":"CA","customer_city":"Watsonville","order_count":43}
+{"customer_state":"CA","customer_city":"Livermore","order_count":43}
+{"customer_state":"CA","customer_city":"San Pablo","order_count":43}
+{"customer_state":"HI","customer_city":"Kaneohe","order_count":43}
+{"customer_state":"CA","customer_city":"Milpitas","order_count":43}
+{"customer_state":"CA","customer_city":"Montebello","order_count":43}
+{"customer_state":"CA","customer_city":"San Marcos","order_count":43}
+{"customer_state":"KS","customer_city":"Salina","order_count":43}
+{"customer_state":"FL","customer_city":"Lutz","order_count":43}
+{"customer_state":"GA","customer_city":"Roswell","order_count":43}
+{"customer_state":"CA","customer_city":"Paramount","order_count":43}
+{"customer_state":"OH","customer_city":"Chillicothe","order_count":43}
+{"customer_state":"IL","customer_city":"Oak Lawn","order_count":42}
+{"customer_state":"WI","customer_city":"Fond Du Lac","order_count":42}
+{"customer_state":"NJ","customer_city":"West New York","order_count":42}
+{"customer_state":"IN","customer_city":"New Albany","order_count":42}
+{"customer_state":"MD","customer_city":"Pasadena","order_count":42}
+{"customer_state":"CA","customer_city":"El Centro","order_count":42}
+{"customer_state":"AZ","customer_city":"Peoria","order_count":42}
+{"customer_state":"CA","customer_city":"San Ramon","order_count":42}
+{"customer_state":"LA","customer_city":"Marrero","order_count":42}
+{"customer_state":"NY","customer_city":"Troy","order_count":42}
+{"customer_state":"PR","customer_city":"Juana Diaz","order_count":42}
+{"customer_state":"MI","customer_city":"Highland Park","order_count":42}
+{"customer_state":"OH","customer_city":"Zanesville","order_count":41}
+{"customer_state":"SC","customer_city":"Summerville","order_count":41}
+{"customer_state":"NY","customer_city":"North Tonawanda","order_count":41}
+{"customer_state":"IN","customer_city":"Crown Point","order_count":41}
+{"customer_state":"AR","customer_city":"Jonesboro","order_count":41}
+{"customer_state":"PR","customer_city":"Guaynabo","order_count":41}
+{"customer_state":"TX","customer_city":"Richardson","order_count":41}
+{"customer_state":"PA","customer_city":"Lansdale","order_count":40}
+{"customer_state":"IL","customer_city":"Wheaton","order_count":40}
+{"customer_state":"MD","customer_city":"Annapolis","order_count":40}
+{"customer_state":"NY","customer_city":"Woodside","order_count":40}
+{"customer_state":"OH","customer_city":"Sandusky","order_count":40}
+{"customer_state":"CA","customer_city":"Baldwin Park","order_count":40}
+{"customer_state":"WA","customer_city":"Redmond","order_count":40}
+{"customer_state":"CA","customer_city":"South San Francisco","order_count":40}
+{"customer_state":"VA","customer_city":"Henrico","order_count":40}
+{"customer_state":"IL","customer_city":"Lombard","order_count":39}
+{"customer_state":"TX","customer_city":"Baytown","order_count":39}
+{"customer_state":"UT","customer_city":"Bountiful","order_count":39}
+{"customer_state":"MA","customer_city":"Quincy","order_count":39}
+{"customer_state":"PR","customer_city":"Yauco","order_count":39}
+{"customer_state":"OH","customer_city":"Massillon","order_count":39}
+{"customer_state":"VA","customer_city":"Annandale","order_count":39}
+{"customer_state":"CA","customer_city":"Canyon Country","order_count":38}
+{"customer_state":"CA","customer_city":"Folsom","order_count":38}
+{"customer_state":"TX","customer_city":"Round Rock","order_count":38}
+{"customer_state":"CA","customer_city":"Tulare","order_count":38}
+{"customer_state":"OH","customer_city":"Westerville","order_count":38}
+{"customer_state":"CA","customer_city":"Gilroy","order_count":38}
+{"customer_state":"MI","customer_city":"Muskegon","order_count":38}
+{"customer_state":"CA","customer_city":"Chino","order_count":38}
+{"customer_state":"OR","customer_city":"Roseburg","order_count":38}
+{"customer_state":"CA","customer_city":"Laguna Niguel","order_count":38}
+{"customer_state":"CT","customer_city":"Manchester","order_count":38}
+{"customer_state":"IL","customer_city":"Granite City","order_count":38}
+{"customer_state":"PR","customer_city":"Trujillo Alto","order_count":38}
+{"customer_state":"OR","customer_city":"Albany","order_count":38}
+{"customer_state":"NY","customer_city":"Ridgewood","order_count":38}
+{"customer_state":"NC","customer_city":"Jacksonville","order_count":38}
+{"customer_state":"NC","customer_city":"Charlotte","order_count":38}
+{"customer_state":"CO","customer_city":"Englewood","order_count":38}
+{"customer_state":"NJ","customer_city":"North Bergen","order_count":38}
+{"customer_state":"CA","customer_city":"Fountain Valley","order_count":37}
+{"customer_state":"GA","customer_city":"Alpharetta","order_count":37}
+{"customer_state":"TX","customer_city":"Denton","order_count":37}
+{"customer_state":"CA","customer_city":"Hesperia","order_count":37}
+{"customer_state":"TX","customer_city":"New Braunfels","order_count":37}
+{"customer_state":"CA","customer_city":"La Habra","order_count":37}
+{"customer_state":"CA","customer_city":"Clovis","order_count":37}
+{"customer_state":"MI","customer_city":"Howell","order_count":37}
+{"customer_state":"AZ","customer_city":"Yuma","order_count":37}
+{"customer_state":"GA","customer_city":"Smyrna","order_count":37}
+{"customer_state":"WA","customer_city":"Lynnwood","order_count":37}
+{"customer_state":"IN","customer_city":"Michigan City","order_count":37}
+{"customer_state":"TN","customer_city":"Knoxville","order_count":36}
+{"customer_state":"UT","customer_city":"Provo","order_count":36}
+{"customer_state":"NJ","customer_city":"Bloomfield","order_count":36}
+{"customer_state":"GA","customer_city":"Stone Mountain","order_count":36}
+{"customer_state":"CA","customer_city":"Union City","order_count":36}
+{"customer_state":"CA","customer_city":"Carmichael","order_count":36}
+{"customer_state":"WV","customer_city":"Wheeling","order_count":36}
+{"customer_state":"NC","customer_city":"Cary","order_count":36}
+{"customer_state":"CA","customer_city":"Vallejo","order_count":36}
+{"customer_state":"NJ","customer_city":"Passaic","order_count":35}
+{"customer_state":"IL","customer_city":"Harvey","order_count":35}
+{"customer_state":"IL","customer_city":"Glenview","order_count":35}
+{"customer_state":"CA","customer_city":"Placentia","order_count":35}
+{"customer_state":"CA","customer_city":"Sun Valley","order_count":35}
+{"customer_state":"PA","customer_city":"Bensalem","order_count":35}
+{"customer_state":"GA","customer_city":"Decatur","order_count":35}
+{"customer_state":"OH","customer_city":"Mentor","order_count":35}
+{"customer_state":"OH","customer_city":"Fairfield","order_count":35}
+{"customer_state":"NY","customer_city":"Astoria","order_count":34}
+{"customer_state":"CA","customer_city":"Canoga Park","order_count":34}
+{"customer_state":"IL","customer_city":"Bolingbrook","order_count":34}
+{"customer_state":"MD","customer_city":"Dundalk","order_count":34}
+{"customer_state":"CA","customer_city":"Lompoc","order_count":34}
+{"customer_state":"CA","customer_city":"Fairfield","order_count":34}
+{"customer_state":"IL","customer_city":"Plainfield","order_count":34}
+{"customer_state":"NY","customer_city":"Lockport","order_count":34}
+{"customer_state":"RI","customer_city":"Woonsocket","order_count":34}
+{"customer_state":"SC","customer_city":"Rock Hill","order_count":34}
+{"customer_state":"MD","customer_city":"Fort Washington","order_count":34}
+{"customer_state":"OH","customer_city":"Painesville","order_count":34}
+{"customer_state":"PA","customer_city":"Wilkes Barre","order_count":34}
+{"customer_state":"MA","customer_city":"Medford","order_count":34}
+{"customer_state":"NJ","customer_city":"Clementon","order_count":33}
+{"customer_state":"CA","customer_city":"South Gate","order_count":33}
+{"customer_state":"NC","customer_city":"Asheboro","order_count":33}
+{"customer_state":"CA","customer_city":"Rosemead","order_count":33}
+{"customer_state":"NM","customer_city":"Rio Rancho","order_count":33}
+{"customer_state":"MO","customer_city":"O Fallon","order_count":33}
+{"customer_state":"NY","customer_city":"Forest Hills","order_count":33}
+{"customer_state":"GA","customer_city":"Douglasville","order_count":33}
+{"customer_state":"MD","customer_city":"Gaithersburg","order_count":33}
+{"customer_state":"CA","customer_city":"Indio","order_count":32}
+{"customer_state":"IN","customer_city":"West Lafayette","order_count":32}
+{"customer_state":"CA","customer_city":"Reseda","order_count":32}
+{"customer_state":"MT","customer_city":"Billings","order_count":32}
+{"customer_state":"NM","customer_city":"Santa Fe","order_count":32}
+{"customer_state":"CA","customer_city":"Hollister","order_count":32}
+{"customer_state":"NJ","customer_city":"Irvington","order_count":32}
+{"customer_state":"MA","customer_city":"Lynn","order_count":31}
+{"customer_state":"IL","customer_city":"Normal","order_count":31}
+{"customer_state":"GA","customer_city":"Lilburn","order_count":31}
+{"customer_state":"OK","customer_city":"Lawton","order_count":31}
+{"customer_state":"TX","customer_city":"Eagle Pass","order_count":31}
+{"customer_state":"CA","customer_city":"Sylmar","order_count":31}
+{"customer_state":"WA","customer_city":"Longview","order_count":31}
+{"customer_state":"NY","customer_city":"Lindenhurst","order_count":31}
+{"customer_state":"HI","customer_city":"Kailua","order_count":31}
+{"customer_state":"IL","customer_city":"Des Plaines","order_count":31}
+{"customer_state":"PA","customer_city":"Doylestown","order_count":31}
+{"customer_state":"CA","customer_city":"Lynwood","order_count":31}
+{"customer_state":"TN","customer_city":"Clarksville","order_count":30}
+{"customer_state":"CA","customer_city":"Citrus Heights","order_count":30}
+{"customer_state":"IL","customer_city":"Cicero","order_count":30}
+{"customer_state":"IL","customer_city":"Berwyn","order_count":30}
+{"customer_state":"IL","customer_city":"Mchenry","order_count":30}
+{"customer_state":"OH","customer_city":"Newark","order_count":30}
+{"customer_state":"CT","customer_city":"Bristol","order_count":30}
+{"customer_state":"CA","customer_city":"Palmdale","order_count":30}
+{"customer_state":"OH","customer_city":"Lancaster","order_count":30}
+{"customer_state":"VA","customer_city":"Stafford","order_count":29}
+{"customer_state":"CA","customer_city":"Rancho Cordova","order_count":29}
+{"customer_state":"NJ","customer_city":"Bayonne","order_count":29}
+{"customer_state":"CA","customer_city":"Rancho Cucamonga","order_count":29}
+{"customer_state":"CA","customer_city":"Vacaville","order_count":28}
+{"customer_state":"CA","customer_city":"Upland","order_count":28}
+{"customer_state":"NJ","customer_city":"Edison","order_count":28}
+{"customer_state":"CT","customer_city":"West Haven","order_count":28}
+{"customer_state":"TX","customer_city":"Lewisville","order_count":28}
+{"customer_state":"NY","customer_city":"Ithaca","order_count":28}
+{"customer_state":"NY","customer_city":"Jackson Heights","order_count":28}
+{"customer_state":"OH","customer_city":"Medina","order_count":27}
+{"customer_state":"PA","customer_city":"Morrisville","order_count":27}
+{"customer_state":"TX","customer_city":"Garland","order_count":27}
+{"customer_state":"CA","customer_city":"Chino Hills","order_count":27}
+{"customer_state":"NY","customer_city":"Massapequa","order_count":27}
+{"customer_state":"DE","customer_city":"New Castle","order_count":27}
+{"customer_state":"MA","customer_city":"Peabody","order_count":27}
+{"customer_state":"CA","customer_city":"Goleta","order_count":27}
+{"customer_state":"CA","customer_city":"Laguna Hills","order_count":27}
+{"customer_state":"CA","customer_city":"Westminster","order_count":27}
+{"customer_state":"NJ","customer_city":"Plainfield","order_count":26}
+{"customer_state":"MA","customer_city":"Brockton","order_count":26}
+{"customer_state":"CA","customer_city":"Buena Park","order_count":26}
+{"customer_state":"NV","customer_city":"Henderson","order_count":26}
+{"customer_state":"CT","customer_city":"Danbury","order_count":26}
+{"customer_state":"IL","customer_city":"Tinley Park","order_count":26}
+{"customer_state":"PA","customer_city":"Williamsport","order_count":26}
+{"customer_state":"VA","customer_city":"Arlington","order_count":25}
+{"customer_state":"MI","customer_city":"Taylor","order_count":25}
+{"customer_state":"MO","customer_city":"Saint Peters","order_count":25}
+{"customer_state":"PR","customer_city":"Aguadilla","order_count":25}
+{"customer_state":"GA","customer_city":"Lithonia","order_count":25}
+{"customer_state":"PA","customer_city":"Greensburg","order_count":25}
+{"customer_state":"ND","customer_city":"Fargo","order_count":25}
+{"customer_state":"CA","customer_city":"Merced","order_count":25}
+{"customer_state":"OH","customer_city":"Dayton","order_count":25}
+{"customer_state":"VA","customer_city":"Blacksburg","order_count":24}
+{"customer_state":"CA","customer_city":"San Pedro","order_count":24}
+{"customer_state":"AR","customer_city":"Conway","order_count":24}
+{"customer_state":"TN","customer_city":"Columbia","order_count":24}
+{"customer_state":"CO","customer_city":"Broomfield","order_count":24}
+{"customer_state":"MD","customer_city":"Glen Burnie","order_count":24}
+{"customer_state":"IA","customer_city":"Dubuque","order_count":24}
+{"customer_state":"CA","customer_city":"Hacienda Heights","order_count":24}
+{"customer_state":"CA","customer_city":"Temecula","order_count":23}
+{"customer_state":"CA","customer_city":"Tracy","order_count":23}
+{"customer_state":"LA","customer_city":"Kenner","order_count":23}
+{"customer_state":"MO","customer_city":"Columbia","order_count":23}
+{"customer_state":"FL","customer_city":"Oviedo","order_count":23}
+{"customer_state":"MD","customer_city":"Parkville","order_count":23}
+{"customer_state":"NC","customer_city":"Morganton","order_count":23}
+{"customer_state":"MA","customer_city":"Revere","order_count":22}
+{"customer_state":"TX","customer_city":"Mcallen","order_count":22}
+{"customer_state":"OH","customer_city":"Grove City","order_count":22}
+{"customer_state":"CA","customer_city":"Pittsburg","order_count":22}
+{"customer_state":"CA","customer_city":"Huntington Park","order_count":22}
+{"customer_state":"NY","customer_city":"Brentwood","order_count":22}
+{"customer_state":"MO","customer_city":"Springfield","order_count":21}
+{"customer_state":"CA","customer_city":"Colton","order_count":21}
+{"customer_state":"TX","customer_city":"Grand Prairie","order_count":21}
+{"customer_state":"IL","customer_city":"Arlington Heights","order_count":21}
+{"customer_state":"CA","customer_city":"Santee","order_count":21}
+{"customer_state":"NY","customer_city":"Bay Shore","order_count":21}
+{"customer_state":"CA","customer_city":"Norwalk","order_count":21}
+{"customer_state":"IL","customer_city":"Chicago Heights","order_count":20}
+{"customer_state":"CA","customer_city":"Poway","order_count":20}
+{"customer_state":"IN","customer_city":"Richmond","order_count":20}
+{"customer_state":"CA","customer_city":"Madera","order_count":20}
+{"customer_state":"CA","customer_city":"Oakland","order_count":20}
+{"customer_state":"CA","customer_city":"Palo Alto","order_count":20}
+{"customer_state":"PA","customer_city":"Allentown","order_count":19}
+{"customer_state":"CA","customer_city":"La Puente","order_count":19}
+{"customer_state":"CA","customer_city":"Lodi","order_count":19}
+{"customer_state":"PA","customer_city":"Washington","order_count":19}
+{"customer_state":"NY","customer_city":"Spring Valley","order_count":19}
+{"customer_state":"PR","customer_city":"Cayey","order_count":19}
+{"customer_state":"PR","customer_city":"Toa Baja","order_count":18}
+{"customer_state":"WA","customer_city":"Bellingham","order_count":18}
+{"customer_state":"CA","customer_city":"Rialto","order_count":17}
+{"customer_state":"WA","customer_city":"Spokane","order_count":17}
+{"customer_state":"PR","customer_city":"Canovanas","order_count":17}
+{"customer_state":"TN","customer_city":"Nashville","order_count":17}
+{"customer_state":"PR","customer_city":"Toa Alta","order_count":16}
+{"customer_state":"NY","customer_city":"Hempstead","order_count":16}
+{"customer_state":"TX","customer_city":"Edinburg","order_count":16}
+{"customer_state":"CA","customer_city":"Wilmington","order_count":15}
+{"customer_state":"PA","customer_city":"Chambersburg","order_count":15}
+{"customer_state":"TX","customer_city":"Arlington","order_count":15}
+{"customer_state":"KY","customer_city":"Richmond","order_count":15}
+{"customer_state":"CA","customer_city":"Santa Maria","order_count":15}
+{"customer_state":"TX","customer_city":"Spring","order_count":14}
+{"customer_state":"AL","customer_city":"Birmingham","order_count":13}
+{"customer_state":"OH","customer_city":"Marion","order_count":13}
+{"customer_state":"MD","customer_city":"Gwynn Oak","order_count":12}
+{"customer_state":"IL","customer_city":"Bartlett","order_count":12}
+{"customer_state":"MA","customer_city":"Taunton","order_count":11}
+{"customer_state":"NV","customer_city":"Reno","order_count":11}
+{"customer_state":"CA","customer_city":"National City","order_count":10}
+{"customer_state":"WA","customer_city":"Sumner","order_count":10}
+{"customer_state":"NJ","customer_city":"Freehold","order_count":10}
+{"customer_state":"MA","customer_city":"Malden","order_count":9}
+{"customer_state":"PR","customer_city":"Ponce","order_count":7}
